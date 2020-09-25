@@ -1,5 +1,4 @@
-![다운로드](https://user-images.githubusercontent.com/63631952/94244624-1dc4e480-ff54-11ea-88d9-c336433e2840.png)
-
+![2](https://user-images.githubusercontent.com/63631952/94245674-8fe9f900-ff55-11ea-94b8-0fd04324eec0.png)
 
 # 부트스트랩을 이용한 게시판
 ----------------------------
