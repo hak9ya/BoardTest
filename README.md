@@ -21,7 +21,7 @@
 
 - 데이터베이스를 이용해 회원정보와 게시글리스트 관리
   - 소스폴더에 패키지를 생성해서 자바빈을 이용하여 관리했습니다.
- ```
+ ``` JAVA
  package user;
 
 public class User {
@@ -67,7 +67,7 @@ public class User {
 ```
 ![1](https://user-images.githubusercontent.com/63631952/94245412-2b2e9e80-ff55-11ea-8339-d01ca0fd906c.png)
 
-```
+``` JAVA
 package user;
 
 //외부 라이브러리 추가
