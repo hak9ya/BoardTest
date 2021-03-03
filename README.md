@@ -108,3 +108,7 @@ public class UserDAO {
 - 게시판
   - 게시글 작성 후 게시판리스트에 출력했습니다.
   - 로그인한 아이디가 일치할 경우 게시글을 수정하고 삭제가 가능합니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+url=https%3A%2F%2Fgithub.com%2Fhak9ya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
